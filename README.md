@@ -1,6 +1,6 @@
 # Data Analytics Portfolio by Alifandi
 
-# Project 1: Bellabeat Data Analysis Case Study
+# [Project 1: Bellabeat Data Analysis Case Study](https://al1fandi.github.io/alifandi_portfolio/)
 ## Project Overview
 * Bellabeat is a small, successful company that has the potential to become a larger company in the global smart device market. 
 * There is a need to analyze smart device fitness data to unlock new growth opportunities for the company. 
