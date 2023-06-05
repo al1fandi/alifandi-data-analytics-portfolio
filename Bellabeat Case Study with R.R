@@ -1,7 +1,15 @@
-# Case Study 2: How Can a Wellness Technology Company Play It Smart?
+# Case Study 1: How Can a Wellness Technology Company Play It Smart?
 
-# Scenario
-# You are a junior data analyst working on the marketing analyst team at Bellabeat. Urška Sršen, co-founder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat executive team along with your high-level recommendations for Bellabeat’s marketing strategy. 
+# Project Overview
+* Bellabeat is a small, successful company that has the potential to become a larger company in the global smart device market. 
+* There is a need to analyze smart device fitness data to unlock new growth opportunities for the company. 
+* The analysis focuses on one of Bellabeats products. 
+* The smart device data analysis is useful to gain insights into how consumers use Bellabeats smart devices and will further guide the marketing strategy for the company. 
+* The results of the analysis will be presented to the executive team along with recommendations for Bellabeats marketing strategy.
+* Smart device usage data is viewed based on daily activity, calories, intensity, sleep time, and weight.
+* This analysis uses 5 selected tables with a total of 45,618 queries from the entire database of 18 tables.
+* The entire analysis using R programming language
+
 
 # Question for the analysis
 # What are some trends in smart device usage?
