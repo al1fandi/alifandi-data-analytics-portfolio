@@ -1,5 +1,4 @@
-# alifandi_portfolio
-Data Analytics Portfolio
+# Data Analytics Portfolio by Alifandi
 
 # Project 1: Bellabeat Data Analysis Case Study
 ## Project Overview
