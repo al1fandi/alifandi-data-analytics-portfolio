@@ -10,4 +10,4 @@ Data Analytics Portfolio
 * The results of the analysis will be presented to the executive team along with recommendations for Bellabeat's marketing strategy.
 * Smart device usage data is viewed based on daily activity, calories, intensity, sleep time, and weight.
 * This analysis uses 5 selected tables with a total of 45,618 queries from the entire database of 18 tables.
-* The entire analysis using R programming language
+* The entire analysis using R programming language.
