@@ -1,6 +1,4 @@
-# Data Analytics Portfolio by Alifandi
-
-# Project 1: Bellabeat Data Analysis Case Study
+# Bellabeat Data Analysis Case Study
 ## Project Overview
 * Bellabeat is a small, successful company that has the potential to become a larger company in the global smart device market. 
 * There is a need to analyze smart device fitness data to unlock new growth opportunities for the company. 
@@ -11,4 +9,4 @@
 * This analysis uses 5 selected tables with a total of 45,618 rows from the entire database of 18 tables.
 * The entire analysis using R programming language.
 
-You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Case_Study/)
+You can access to it [HERE](https://al1fandi.github.io/Bellabeat_Case_Study/)
