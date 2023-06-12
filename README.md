@@ -9,4 +9,4 @@
 * This analysis uses 5 selected tables with a total of 45,618 rows from the entire database of 18 tables.
 * The entire analysis using R programming language.
 
-You can access to it [HERE](https://al1fandi.github.io/Bellabeat_Case_Study/)
+You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Case_Study/)**
