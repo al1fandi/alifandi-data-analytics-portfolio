@@ -1,5 +1,5 @@
 # My Project by Alifandi
-# Data Analysis Project - Bellabeat Smart Product Usage
+# R - Bellabeat Data Analysis Project
 ## Project Overview
 * Bellabeat is a small, successful company that has the potential to become a larger company in the global smart device market. 
 * There is a need to analyze smart device fitness data to unlock new growth opportunities for the company. 
@@ -11,4 +11,4 @@
 
 You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Project/)**
 
-![images/MinutesAsleep vs. SedentaryMinutes.](https://github.com/al1fandi/Bellabeat_Case_Study/blob/main/images/Minutes%20Asleep%20vs.%20Sedentary%20Minutes.png?raw=true)
+![bellabeat](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2Ff1b42e673c8692879cc21a1e382799d042ca15f7.png&tbnid=GLS-J0xD3Y42XM&vet=12ahUKEwj3kJ6YlL__AhWOMLcAHXHlDgoQMygPegUIARDNAQ..i&imgrefurl=https%3A%2F%2Fwww.ycombinator.com%2Fcompanies%2Fbellabeat&docid=YF5MFBUBAMU4jM&w=500&h=282&q=bellabeat&ved=2ahUKEwj3kJ6YlL__AhWOMLcAHXHlDgoQMygPegUIARDNAQ)
