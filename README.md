@@ -11,4 +11,4 @@
 
 You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Project/)**
 
-![bellabeat](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2Ff1b42e673c8692879cc21a1e382799d042ca15f7.png&tbnid=GLS-J0xD3Y42XM&vet=12ahUKEwj3kJ6YlL__AhWOMLcAHXHlDgoQMygPegUIARDNAQ..i&imgrefurl=https%3A%2F%2Fwww.ycombinator.com%2Fcompanies%2Fbellabeat&docid=YF5MFBUBAMU4jM&w=500&h=282&q=bellabeat&ved=2ahUKEwj3kJ6YlL__AhWOMLcAHXHlDgoQMygPegUIARDNAQ)
+![bellabeat](https://github.com/al1fandi/Alifandi_Portfolio/blob/main/images/logo.png?raw=true)
