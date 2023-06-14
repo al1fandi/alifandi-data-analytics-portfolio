@@ -21,3 +21,5 @@ You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Project/)**
 * Exploration was done using the R programming language.
 
 You can access to it **[HERE](https://al1fandi.github.io/AmazonBook_Project/)**
+
+![amazon](https://github.com/al1fandi/AmazonBook_Project/blob/main/images/logo.png?raw=true)
