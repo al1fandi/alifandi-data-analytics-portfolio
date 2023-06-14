@@ -12,3 +12,12 @@
 You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Project/)**
 
 ![bellabeat](https://github.com/al1fandi/Alifandi_Portfolio/blob/main/images/logo.png?raw=true)
+
+# R - Amazon Best Selling Book EDA
+## Project Overview
+* Best selling book on Amazon are interesting to explore.
+* The dataset used is from 2009 - 2021.
+* The exploration focuses on the variables of number of books, reviews, rating, and price.
+* Exploration was done using the R programming language.
+
+You can access to it **[HERE](https://al1fandi.github.io/AmazonBook_Project/)**
