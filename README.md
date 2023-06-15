@@ -30,6 +30,6 @@ You can access to it **[HERE](https://al1fandi.github.io/AmazonBook_Project/)**
 * The distribution of employees is based on age, gender, race, job title, department, termination rate, work location, work duration, and place of origin.
 * The tools used in this project are MySQL and Tableau.
 
-
+You can access to it **[HERE](https://al1fandi.github.io/HR_Project/)**
 
 ![dashboard](https://github.com/al1fandi/HR_Project/blob/main/image/dashboard.png?raw=true)
