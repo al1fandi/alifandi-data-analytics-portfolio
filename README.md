@@ -23,3 +23,13 @@ You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Project/)**
 You can access to it **[HERE](https://al1fandi.github.io/AmazonBook_Project/)**
 
 ![amazon](https://github.com/al1fandi/AmazonBook_Project/blob/main/images/logo.png?raw=true)
+
+# SQL_TABLEAU - HR Employee Distribution
+## Project Overview
+* This project explores the distribution of employees in a company.
+* The distribution of employees is based on age, gender, race, job title, department, termination rate, work location, work duration, and place of origin.
+* The tools used in this project are MySQL and Tableau.
+
+
+
+![dashboard](https://github.com/al1fandi/HR_Project/blob/main/image/dashboard.png?raw=true)
