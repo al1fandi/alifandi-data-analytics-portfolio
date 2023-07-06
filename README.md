@@ -1,5 +1,5 @@
 # My Project by Alifandi
-# R - Bellabeat Data Analysis Project
+# Bellabeat Data Analysis Project
 ## Project Overview
 * Bellabeat is a small, successful company that has the potential to become a larger company in the global smart device market.
 * There is a need to analyze smart device fitness data to unlock new growth opportunities for the company.
@@ -13,7 +13,7 @@ You can access to it **[HERE](https://al1fandi.github.io/Bellabeat_Project/)**
 
 ![bellabeat](https://github.com/al1fandi/Alifandi_Portfolio/blob/main/images/logo.png?raw=true)
 
-# R - Amazon Best Selling Book EDA
+# Amazon Best Selling Book EDA
 ## Project Overview
 * Best-selling books on Amazon are interesting to explore.
 * The dataset used is from 2009 - 2021.
@@ -24,7 +24,7 @@ You can access to it **[HERE](https://al1fandi.github.io/AmazonBook_Project/)**
 
 ![amazon](https://github.com/al1fandi/AmazonBook_Project/blob/main/images/logo.png?raw=true)
 
-# SQL_TABLEAU - HR Employee Distribution
+# HR Employee Distribution
 ## Project Overview
 * This project explores the distribution of employees in a company.
 * The distribution of employees is based on age, gender, race, job title, department, termination rate, work location, work duration, and place of origin.
