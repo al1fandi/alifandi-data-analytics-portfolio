@@ -33,3 +33,16 @@ You can access to it **[HERE](https://al1fandi.github.io/AmazonBook_Project/)**
 You can access to it **[HERE](https://al1fandi.github.io/HR_Project/)**
 
 ![dashboard](https://github.com/al1fandi/HR_Project/blob/main/image/dashboard.png?raw=true)
+
+
+# Biodiversity Data Analysis Project
+## Project Overview
+* This project analyses biodiversity data observed at various national park sites.
+* This project will scope, analyze, prepare, plot data, and seek to explain the findings from the analysis.
+* It was found that bird and mammal species are likely to become endangered
+* It was also found that Yellowstone National Park has good biodiversity.
+* The Python modules used were matplotlib, scipy, pandas, and numpy.
+
+You can access to it **[HERE](https://al1fandi.github.io/Biodiversity_Project/)**
+
+![animaldistributioninnationalpark](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Animal%20Species%20Distribution%20in%20National%20Park2.png?raw=true)
