@@ -46,3 +46,16 @@ You can access to it **[HERE](https://al1fandi.github.io/HR_Project/)**
 You can access to it **[HERE](https://al1fandi.github.io/Biodiversity_Project/)**
 
 ![animaldistributioninnationalpark](https://github.com/al1fandi/Biodiversity_Project/blob/main/images/Animal%20Species%20Distribution%20in%20National%20Park2.png?raw=true)
+
+
+# Excel Data Analysis Project
+## Project Overview
+* An bike store needs to increase its profits.
+* Bike sales evaluated by customer overview (income, commute distance, age bracket, education and region).
+* Marketing target is found by evaluating the customer characteristics.
+* This analysis was done on a dataset with 1,000+ values using Ms. Excel only.
+
+You can access to it **[HERE](https://al1fandi.github.io/Excel_Project/)**
+
+![dashboard](https://github.com/al1fandi/Excel_Project/blob/53280c787b6ea3931f957610acc4865a131c545b/Image/Bike%20Sales%20Dashboard.png)
+
