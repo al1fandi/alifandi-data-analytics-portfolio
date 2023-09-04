@@ -12,7 +12,7 @@ Link Resume
 
 # Projects
 
-**1. Spreadsheet/Excel Skill sets:**
+## Spreadsheet/Excel Skill sets:
 - Data Cleaning;
 - Data Formatting;
 - Pivot Table;
@@ -20,10 +20,10 @@ Link Resume
 - Data Visualization;
 - Gathering Insights;
 
-Explanation of analysis: 
+### Explanation of analysis: 
 - **[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
 
-**2. SQL Skill sets:**
+## SQL Skill sets:
 - Standard Query Syntax;
 - SQL Aggregate Functions;
 - SQL Logic Functions;
@@ -31,13 +31,13 @@ Explanation of analysis:
 - SQL Date Format;
 - SQL Subquery;
 
-Query Example: 
+### Query Example: 
 - **[HR_Project](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
 
-Explanation of analysis: 
+### Explanation of analysis: 
 - **[HR_Project](https://al1fandi.github.io/HR_Project/)**
 
-**3. Python Skill sets:**
+## Python Skill sets:
 - Removing irrelevant values
 - Handling missing data
 - String manipulation
@@ -47,20 +47,20 @@ Explanation of analysis:
 - Statistical significant
 - Analyzing using visualization
   
-Code Example:
+### Code Example:
 - **[Biodiversity Data Analysis Project](https://github.com/al1fandi/Biodiversity_Project/blob/3bccf3ed50a5507f9d67683768678daab54e4d43/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
 
-Explanation of analysis: 
+### Explanation of analysis: 
 - **[Biodiversity Data Analysis Project](https://al1fandi.github.io/Biodiversity_Project/)**
 
-**4. Tableau/Google Data Studio Data Visualization Skill sets:** 
+## Tableau/Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
 - Data formatting
 - Interactive Dashboard
 - Visualization
 
-Dashboard Example: 
+### Dashboard Example: 
 - [HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)
 
-**5. Project-Based Virtual Intern**
-Explanation of analysis: Link
+## Project-Based Virtual Intern
+### Explanation of analysis: Link
