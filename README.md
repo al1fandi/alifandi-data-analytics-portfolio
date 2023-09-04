@@ -31,7 +31,8 @@ Explanation of analysis:
 - SQL Date Format;
 - SQL Subquery;
 
-Query Example: **[Link](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
+Query Example: 
+- **[HR_Project](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
 
 Explanation of analysis: **[Link](al1fandi.github.io/HR_Project/)**
 
