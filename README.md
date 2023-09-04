@@ -62,5 +62,16 @@ Link Resume
 ### Dashboard Example: 
 [HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)
 
-## Project-Based Virtual Intern
-### Explanation of analysis: Link
+## Project-Based Virtual Intern Skill sets:
+- SQL Operation
+- Google BigQuery
+- Excel Data Processing
+- Microsoft Excel
+- Data Visualization
+- BI Tools: Dashboard
+- Google Data Studio
+- Statistics
+
+### Query Example:
+### Dashboard Example: 
+### Explanation of analysis: 
