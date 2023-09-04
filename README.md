@@ -4,6 +4,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 
 # Contact information
 E-mail: [](ralifandi@gmail.com)
+
 [Linkedln](www.linkedin.com/in/alifandi-rahmatul)
 
 # Resume
