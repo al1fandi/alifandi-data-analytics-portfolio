@@ -37,7 +37,7 @@ Query Example:
 Explanation of analysis: 
 - **[HR_Project](https://al1fandi.github.io/HR_Project/)**
 
-3. Python Skill sets:
+**3. Python Skill sets:**
 - Removing irrelevant values
 - Handling missing data
 - String manipulation
@@ -46,6 +46,7 @@ Explanation of analysis:
 - Descriptive statistic
 - Statistical significant
 - Analyzing using visualization
+  
 Code Example:
 - **[Biodiversity Data Analysis Project](https://github.com/al1fandi/Biodiversity_Project/blob/3bccf3ed50a5507f9d67683768678daab54e4d43/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
 
