@@ -10,6 +10,17 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 # Resume
 Link Resume
 
+# Projects
+
+1. Spreadsheet/Excel Skill sets:
+- Data Cleaning;
+- Data Formatting;
+- Pivot Table;
+- Pivot Chart;
+- Data Visualization;
+- Gathering Insights;
+Explanation of analysis: **[Link](https://al1fandi.github.io/Excel_Project/)**
+
 # Amazon Best Selling Book EDA
 ## Project Overview
 * Best-selling books on Amazon are interesting to explore.
