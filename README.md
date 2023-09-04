@@ -21,6 +21,16 @@ Link Resume
 - Gathering Insights;
 Explanation of analysis: **[Link](https://al1fandi.github.io/Excel_Project/)**
 
+**2 SQL Skill sets:**
+- Standard Query Syntax;
+- SQL Aggregate Functions;
+- SQL Logic Functions;
+- SQL Data Type;
+- SQL Date Format;
+- SQL Subquery;
+Query Example: **[Link](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
+Explanation of analysis: **[Link](al1fandi.github.io/HR_Project/)**
+
 # Amazon Best Selling Book EDA
 ## Project Overview
 * Best-selling books on Amazon are interesting to explore.
