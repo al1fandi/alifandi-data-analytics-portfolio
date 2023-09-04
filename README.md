@@ -53,6 +53,14 @@ Code Example:
 Explanation of analysis: 
 - **[Biodiversity Data Analysis Project](https://al1fandi.github.io/Biodiversity_Project/)**
 
+**4. Tableau/Google Data Studio Data Visualization Skill sets:** 
+- Connect datasets
+- Data formatting
+- Interactive Dashboard
+- Visualization
+
+Dashboard Example:
+
 # Amazon Best Selling Book EDA
 ## Project Overview
 * Best-selling books on Amazon are interesting to explore.
