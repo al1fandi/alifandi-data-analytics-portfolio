@@ -56,7 +56,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Visualization
 
 ### Dashboard Example: 
-[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)
+**[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)**
 
 ## Project-Based Virtual Intern Skill sets:
 - SQL Operation
