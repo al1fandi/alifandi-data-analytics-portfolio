@@ -59,7 +59,8 @@ Explanation of analysis:
 - Interactive Dashboard
 - Visualization
 
-Dashboard Example:
+Dashboard Example: 
+- [HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)
 
 # Amazon Best Selling Book EDA
 ## Project Overview
