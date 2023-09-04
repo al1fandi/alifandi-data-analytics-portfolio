@@ -12,7 +12,7 @@ Link Resume
 
 # Projects
 
-1. Spreadsheet/Excel Skill sets:
+**1. Spreadsheet/Excel Skill sets:**
 - Data Cleaning;
 - Data Formatting;
 - Pivot Table;
