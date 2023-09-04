@@ -2,13 +2,9 @@
 # About me
 Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated with a Biology major at Al-Azhar University of Indonesia. I have a passion for understanding data analytics. The versatile individual with hands-on experience in project management, data cleaning, data visualization, interpreting, and communicating data analytics findings, actively improving proficiency in Microsoft Excel or Spreadsheet, SQL Query, Python, Tableau, and Statistical Concepts to enrich knowledge and skills. I recently completed the Google Data Analytics Certificate and Business Intelligence Analyst Project Based Internship Program, a hands-on program covering the entire data analysis process scope. Here is my Portfolio as a Data Analyst/BI Analyst. Please check it out!
 
-# Contact information
-[E-mail](ralifandi@gmail.com)
-
-[Linkedln](www.linkedin.com/in/alifandi-rahmatul)
-
-# Resume
-Link Resume
+- [E-mail](ralifandi@gmail.com)
+- [Linkedln](www.linkedin.com/in/alifandi-rahmatul)
+- Resume
 
 # Projects
 
