@@ -20,7 +20,8 @@ Link Resume
 - Data Visualization;
 - Gathering Insights;
 
-Explanation of analysis: **[Link](https://al1fandi.github.io/Excel_Project/)**
+Explanation of analysis: 
+- **[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
 
 **2 SQL Skill sets:**
 - Standard Query Syntax;
