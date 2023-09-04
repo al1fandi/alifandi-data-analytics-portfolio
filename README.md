@@ -21,7 +21,7 @@ Link Resume
 - Gathering Insights;
 
 ### Explanation of analysis: 
-- **[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
+**[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
 
 ## SQL Skill sets:
 - Standard Query Syntax;
@@ -32,10 +32,10 @@ Link Resume
 - SQL Subquery;
 
 ### Query Example: 
-- **[HR_Project](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
+**[HR_Project](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
 
 ### Explanation of analysis: 
-- **[HR_Project](https://al1fandi.github.io/HR_Project/)**
+**[HR_Project](https://al1fandi.github.io/HR_Project/)**
 
 ## Python Skill sets:
 - Removing irrelevant values
@@ -48,10 +48,10 @@ Link Resume
 - Analyzing using visualization
   
 ### Code Example:
-- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/Biodiversity_Project/blob/3bccf3ed50a5507f9d67683768678daab54e4d43/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
+**[Biodiversity Data Analysis Project](https://github.com/al1fandi/Biodiversity_Project/blob/3bccf3ed50a5507f9d67683768678daab54e4d43/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
 
 ### Explanation of analysis: 
-- **[Biodiversity Data Analysis Project](https://al1fandi.github.io/Biodiversity_Project/)**
+**[Biodiversity Data Analysis Project](https://al1fandi.github.io/Biodiversity_Project/)**
 
 ## Tableau/Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
@@ -60,7 +60,7 @@ Link Resume
 - Visualization
 
 ### Dashboard Example: 
-- [HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)
+[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)
 
 ## Project-Based Virtual Intern
 ### Explanation of analysis: Link
