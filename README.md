@@ -69,5 +69,8 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Statistics
 
 ### Query Example:
+**[Link Query](https://console.cloud.google.com/bigquery?sq=1052968422182:961a30948d464c92841075f20bcd27bf)** 
 ### Dashboard Example: 
+**[Link Dashboard](https://lookerstudio.google.com/reporting/b52c344e-a4d7-441c-8879-9b6f9181a8af)**
 ### Explanation of analysis: 
+**[Deck Presentation](https://docs.google.com/presentation/d/1kCSlxKwXU2dSVX8FmsB0-9i32ZEMVmvMVcwTO1OGrqM/edit?usp=sharing)**
