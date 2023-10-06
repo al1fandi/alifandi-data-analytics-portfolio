@@ -19,8 +19,8 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Gathering Insights;
 
 ### Explanation of analysis: 
-**[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
-**[FIFA 23 Player Exploration (Excel)](https://docs.google.com/presentation/d/1FEn_QKag33MQFHXgURQoOTy_Reb2wMictW4PXCACgYM/edit?usp=sharing)**
+- **[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
+- **[FIFA 23 Player Exploration (Excel)](https://docs.google.com/presentation/d/1FEn_QKag33MQFHXgURQoOTy_Reb2wMictW4PXCACgYM/edit?usp=sharing)**
 
 ## SQL Skill sets:
 - Standard Query Syntax;
