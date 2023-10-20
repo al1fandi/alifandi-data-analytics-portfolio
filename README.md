@@ -10,6 +10,9 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 
 ## Spreadsheet/Excel Skill sets:
 - Data Cleaning;
+- Data Transformation;
+- Coditional Formatting;
+- Calculated Columns;
 - Data Formatting;
 - Exploratory Data Analysis;
 - Lookup Function;
@@ -18,9 +21,10 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Data Visualization;
 - Gathering Insights;
 
-### Explanation of analysis: 
+### Detail Explanation: 
 - **[Bike Sales Analysis (Excel)](https://al1fandi.github.io/Excel_Project/)**
-- **[FIFA 23 Player Exploration (Excel)](https://docs.google.com/presentation/d/1FEn_QKag33MQFHXgURQoOTy_Reb2wMictW4PXCACgYM/edit?usp=sharing)**
+- **[FIFA 23 Player Exploration in Excel](https://docs.google.com/presentation/d/1FEn_QKag33MQFHXgURQoOTy_Reb2wMictW4PXCACgYM/edit?usp=sharing)**
+- **[Analyzing Databel Customer Churn in Excel](https://docs.google.com/presentation/d/19dddvIe4_XRkVzA2OWeHFz2huv17y069u9AaRKFAnQw/edit?usp=sharing)**
 
 ## SQL Skill sets:
 - Standard Query Syntax;
@@ -33,7 +37,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 ### Query Example: 
 **[HR_Project](https://github.com/al1fandi/HR_Project/tree/1e468d5d7b85ea2e370fdc9a8c39f997e17b63a5/query)**
 
-### Explanation of analysis: 
+### Detail Explanation: 
 **[HR_Project](https://al1fandi.github.io/HR_Project/)**
 
 ## Python Skill sets:
@@ -49,7 +53,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 ### Code Example:
 **[Biodiversity Data Analysis Project](https://github.com/al1fandi/Biodiversity_Project/blob/3bccf3ed50a5507f9d67683768678daab54e4d43/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
 
-### Explanation of analysis: 
+### Detail Explanation: 
 **[Biodiversity Data Analysis Project](https://al1fandi.github.io/Biodiversity_Project/)**
 
 ## Tableau/Google Data Studio Data Visualization Skill sets: 
@@ -75,5 +79,5 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 **[Link Query](https://console.cloud.google.com/bigquery?sq=1052968422182:961a30948d464c92841075f20bcd27bf)** 
 ### Dashboard Example: 
 **[Link Dashboard](https://lookerstudio.google.com/reporting/b52c344e-a4d7-441c-8879-9b6f9181a8af)**
-### Explanation of analysis: 
+### Detail Explanation: 
 **[Deck Presentation](https://docs.google.com/presentation/d/1kCSlxKwXU2dSVX8FmsB0-9i32ZEMVmvMVcwTO1OGrqM/edit?usp=sharing)**
