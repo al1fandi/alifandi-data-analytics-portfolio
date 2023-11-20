@@ -51,10 +51,10 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Analyzing using visualization
   
 ### Code Example:
-**[Biodiversity Data Analysis Project](https://github.com/al1fandi/Biodiversity_Project/blob/3bccf3ed50a5507f9d67683768678daab54e4d43/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
+**[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
 
 ### Detail Explanation: 
-**[Biodiversity Data Analysis Project](https://al1fandi.github.io/Biodiversity_Project/)**
+**[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/README.md)**
 
 ## Tableau/Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
