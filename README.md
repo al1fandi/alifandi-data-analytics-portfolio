@@ -24,7 +24,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 ### Detail Explanation: 
 - **[Bike Sales Analysis (Excel)](https://github.com/al1fandi/excel-project/tree/1adc1a3f75ed9041a71dda2051fa87b508cbac3c/Bike%20Sales%20Analysis)**
 - **[FIFA 23 Player Exploration in Excel](https://github.com/al1fandi/excel-project/tree/1adc1a3f75ed9041a71dda2051fa87b508cbac3c/FIFA%2023%20Player%20Exploration)**
-- **[Analyzing Databel Customer Churn in Excel](https://docs.google.com/presentation/d/19dddvIe4_XRkVzA2OWeHFz2huv17y069u9AaRKFAnQw/edit?usp=sharing)**
+- **[Analyzing Databel Customer Churn in Excel](https://github.com/al1fandi/excel-project/tree/e8866acc99b1c66103ad5324561067770a4bed90/Analyzing%20Databel%20Customer%20Churn%20in%20Excel)**
 
 ## SQL Skill sets:
 - Standard Query Syntax;
