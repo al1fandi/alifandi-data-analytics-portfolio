@@ -7,8 +7,24 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Resume
 
 # Projects
+## A. Project-Based Virtual Internship Skill sets:
+- SQL Operation
+- Google BigQuery
+- Excel Data Processing
+- Microsoft Excel
+- Data Visualization
+- BI Tools: Dashboard
+- Google Data Studio
+- Statistics
 
-## Spreadsheet/Excel Skill sets:
+### Query Example:
+**[Link Query](https://console.cloud.google.com/bigquery?sq=1052968422182:961a30948d464c92841075f20bcd27bf)** 
+### Dashboard Example: 
+**[Link Dashboard](https://lookerstudio.google.com/reporting/b52c344e-a4d7-441c-8879-9b6f9181a8af)**
+### Detail Explanation: 
+**[Deck Presentation](https://docs.google.com/presentation/d/1kCSlxKwXU2dSVX8FmsB0-9i32ZEMVmvMVcwTO1OGrqM/edit?usp=sharing)**
+
+## B. Spreadsheet/Excel Skill sets:
 - Data Cleaning;
 - Data Transformation;
 - Coditional Formatting;
@@ -26,7 +42,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - **[FIFA 23 Player Exploration in Excel](https://github.com/al1fandi/excel-project/tree/1adc1a3f75ed9041a71dda2051fa87b508cbac3c/FIFA%2023%20Player%20Exploration)**
 - **[Analyzing Databel Customer Churn in Excel](https://github.com/al1fandi/excel-project/tree/e8866acc99b1c66103ad5324561067770a4bed90/Analyzing%20Databel%20Customer%20Churn%20in%20Excel)**
 
-## SQL Skill sets:
+## C. SQL Skill sets:
 - Standard Query Syntax;
 - SQL Aggregate Functions;
 - SQL Logic Functions;
@@ -40,7 +56,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 ### Detail Explanation: 
 **[HR_Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/README.md)**
 
-## Python Skill sets:
+## D. Python Skill sets:
 - Removing irrelevant values
 - Handling missing data
 - String manipulation
@@ -56,28 +72,19 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 ### Detail Explanation: 
 **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/README.md)**
 
-## Tableau/Google Data Studio Data Visualization Skill sets: 
+## E. Tableau & Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
+- Blend datasets
 - Data formatting
+- Data filtering
+- Create field
+- Aggregation methods
 - Interactive Dashboard
-- Visualization
 
 ### Dashboard Example: 
 **[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)**
-
-## Project-Based Virtual Intern Skill sets:
-- SQL Operation
-- Google BigQuery
-- Excel Data Processing
-- Microsoft Excel
-- Data Visualization
-- BI Tools: Dashboard
-- Google Data Studio
-- Statistics
-
-### Query Example:
-**[Link Query](https://console.cloud.google.com/bigquery?sq=1052968422182:961a30948d464c92841075f20bcd27bf)** 
-### Dashboard Example: 
-**[Link Dashboard](https://lookerstudio.google.com/reporting/b52c344e-a4d7-441c-8879-9b6f9181a8af)**
-### Detail Explanation: 
-**[Deck Presentation](https://docs.google.com/presentation/d/1kCSlxKwXU2dSVX8FmsB0-9i32ZEMVmvMVcwTO1OGrqM/edit?usp=sharing)**
+**[Atlas Labs - HR Dashboard](https://public.tableau.com/views/AtlasLabs-HRDashboard_16998759539810/HRDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
+**[Video Game Competitor Analysis (1994-2010)](https://public.tableau.com/views/VideoGameCompetitorAnalysis1994-2010_16949484649010/CompetitorAnalysis1994-2010?:language=en-US&:display_count=n&:origin=viz_share_link)**
+**[DQMall Sales Report](https://lookerstudio.google.com/reporting/c3d2f6b3-adbe-4e09-9102-d66b6d8af047)**
+**[DQMall Sales Report II](https://lookerstudio.google.com/reporting/defa2db1-ea05-4f2c-b461-eadf724c71b1)**
+**[EDA Amazon Prime Movies and TV Shows](https://lookerstudio.google.com/reporting/f3a1ebcb-2152-4f44-903b-e839727fd11c)**
