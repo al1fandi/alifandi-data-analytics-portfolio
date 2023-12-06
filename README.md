@@ -82,9 +82,9 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Interactive Dashboard
 
 ### Dashboard Example: 
-**[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)**
-**[Atlas Labs - HR Dashboard](https://public.tableau.com/views/AtlasLabs-HRDashboard_16998759539810/HRDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
-**[Video Game Competitor Analysis (1994-2010)](https://public.tableau.com/views/VideoGameCompetitorAnalysis1994-2010_16949484649010/CompetitorAnalysis1994-2010?:language=en-US&:display_count=n&:origin=viz_share_link)**
-**[DQMall Sales Report](https://lookerstudio.google.com/reporting/c3d2f6b3-adbe-4e09-9102-d66b6d8af047)**
-**[DQMall Sales Report II](https://lookerstudio.google.com/reporting/defa2db1-ea05-4f2c-b461-eadf724c71b1)**
-**[EDA Amazon Prime Movies and TV Shows](https://lookerstudio.google.com/reporting/f3a1ebcb-2152-4f44-903b-e839727fd11c)**
+- **[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)**
+- **[Atlas Labs - HR Dashboard](https://public.tableau.com/views/AtlasLabs-HRDashboard_16998759539810/HRDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
+- **[Video Game Competitor Analysis (1994-2010)](https://public.tableau.com/views/VideoGameCompetitorAnalysis1994-2010_16949484649010/CompetitorAnalysis1994-2010?:language=en-US&:display_count=n&:origin=viz_share_link)**
+- **[DQMall Sales Report](https://lookerstudio.google.com/reporting/c3d2f6b3-adbe-4e09-9102-d66b6d8af047)**
+- **[DQMall Sales Report II](https://lookerstudio.google.com/reporting/defa2db1-ea05-4f2c-b461-eadf724c71b1)**
+- **[EDA Amazon Prime Movies and TV Shows](https://lookerstudio.google.com/reporting/f3a1ebcb-2152-4f44-903b-e839727fd11c)**
