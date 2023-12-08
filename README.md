@@ -73,8 +73,9 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 
 
 ### Detail Explanation: 
-- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/README.md)**
 - **[Exploratory Data Analysis](https://github.com/al1fandi/exploratory-data-analysis/blob/cfbcc5dd486223eb3308185566a1d323761d8ff3/exploratory-data-analysis.ipynb)**
+- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/README.md)**
+
 
 ## E. Tableau & Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
