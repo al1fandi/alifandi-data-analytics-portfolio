@@ -51,10 +51,10 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - SQL Subquery;
 
 ### Query Example: 
-**[HR_Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/query/hr_project.sql)**
+**[HR Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/query/hr_project.sql)**
 
 ### Detail Explanation: 
-**[HR_Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/README.md)**
+**[HR Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/README.md)**
 
 ## D. Python Skill sets:
 - Exploratory data analysis
