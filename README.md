@@ -52,10 +52,7 @@ In addition to the above tools, I have a deep interest in learning about the big
 - SQL Date Format;
 - SQL Subquery;
 
-### Query Example: 
-**[HR Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/query/hr_project.sql)**
-
-### Detail Explanation: 
+### Query & Explanation: 
 **[HR Project](https://github.com/al1fandi/hr-project/blob/f8a0cbe0d75e8a315fed859508d51c60533f234a/README.md)**
 
 ## D. Python Skill sets:
@@ -72,8 +69,8 @@ In addition to the above tools, I have a deep interest in learning about the big
   
 ### Code & Explanation:
 - **[Exploratory Data Analysis](https://github.com/al1fandi/exploratory-data-analysis/blob/cfbcc5dd486223eb3308185566a1d323761d8ff3/exploratory-data-analysis.ipynb)**
-- **[Saled Performance Analysis](https://github.com/al1fandi/sales-performance-analysis)**
-- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project)**
+- **[Sales Performance Analysis](https://github.com/al1fandi/sales-performance-analysis/blob/bfaac9e2d1709a17a1d7e3fb56f4a570da5914a8/README.md)**
+- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/README.md)**
 
 ## E. Tableau & Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
