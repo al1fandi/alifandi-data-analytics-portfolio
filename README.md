@@ -1,10 +1,12 @@
 # Data Analytics Portfolio by Alifandi Rahmatul Ilmi
 # About me
-Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated with a Biology major at Al-Azhar University of Indonesia. I have a passion for understanding data analytics. The versatile individual with hands-on experience in project management, data cleaning, data visualization, interpreting, and communicating data analytics findings, actively improving proficiency in Microsoft Excel or Spreadsheet, SQL Query, Python, Tableau, and Statistical Concepts to enrich knowledge and skills. I recently completed the Google Data Analytics Certificate and Business Intelligence Analyst Project Based Internship Program, a hands-on program covering the entire data analysis process scope. Here is my Portfolio as a Data Analyst/BI Analyst. Please check it out!
+Hi, I'm Alifandi,
+a fresh graduate of the Biology major with research experience and scientific publications. Given the dynamics of current technology development, I decided to switch careers in the data field to become a Data Analyst. The field of Data Analytics is new to me, so I started this new journey by joining a virtual internship program as a Business Intelligence analyst, which was carried out in collaboration between Bank Muamalat and Rakamin Academy. After joining this internship, I was able to learn many things so that I have skills such as SQL Operation, Excel Data Processing, Data Visualization, Statistics, Business Acumen, and BI Tools: Dashboard. I applied these skills in the data analysis process to provide analytical insights and propose suggestions to improve sales performance. The tools I use in the data analysis process include Excel, Google BigQuery (SQL), and Google Data Studio.
+ 
+In addition to the above tools, I have a deep interest in learning about the big data analysis process using Python and being part of a company that can uncover hidden insights for business improvement. I'm a forever learner and welcome any recommendations on things to do that challenge me to always have a growth mindset.
 
 - [E-mail](ralifandi@gmail.com)
 - [Linkedln](www.linkedin.com/in/alifandi-rahmatul)
-- Resume
 
 # Projects
 ## A. Project-Based Virtual Internship Skill sets:
@@ -60,6 +62,7 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Exploratory data analysis
 - Removing irrelevant values
 - Handling missing data
+- Handling outlier
 - String manipulation
 - Combine & merge datasets
 - Data aggregation
@@ -67,15 +70,10 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - Statistical significant
 - Analyzing using visualization
   
-### Code Example:
+### Code & Explanation:
 - **[Exploratory Data Analysis](https://github.com/al1fandi/exploratory-data-analysis/blob/cfbcc5dd486223eb3308185566a1d323761d8ff3/exploratory-data-analysis.ipynb)**
-- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/code/Biodiversity%20Data%20Analysis%20Project.ipynb)**
-
-
-### Detail Explanation: 
-- **[Exploratory Data Analysis](https://github.com/al1fandi/exploratory-data-analysis/blob/cfbcc5dd486223eb3308185566a1d323761d8ff3/exploratory-data-analysis.ipynb)**
-- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project/blob/44f498a6a4a231ef5c45d3d6d8e1ffae021ef962/README.md)**
-
+- **[Saled Performance Analysis](https://github.com/al1fandi/sales-performance-analysis)**
+- **[Biodiversity Data Analysis Project](https://github.com/al1fandi/biodiversity-project)**
 
 ## E. Tableau & Google Data Studio Data Visualization Skill sets: 
 - Connect datasets
@@ -90,6 +88,6 @@ Hi! My name is Alifandi Rahmatul Ilmi, just call me Alif. I recently graduated w
 - **[HR Employee Distribution Dashboard](https://public.tableau.com/shared/ZG5J378ND?:display_count=n&:origin=viz_share_link)**
 - **[Atlas Labs - HR Dashboard](https://public.tableau.com/views/AtlasLabs-HRDashboard_16998759539810/HRDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**
 - **[Video Game Competitor Analysis (1994-2010)](https://public.tableau.com/views/VideoGameCompetitorAnalysis1994-2010_16949484649010/CompetitorAnalysis1994-2010?:language=en-US&:display_count=n&:origin=viz_share_link)**
-- **[DQMall Sales Report](https://lookerstudio.google.com/reporting/c3d2f6b3-adbe-4e09-9102-d66b6d8af047)**
-- **[DQMall Sales Report II](https://lookerstudio.google.com/reporting/defa2db1-ea05-4f2c-b461-eadf724c71b1)**
 - **[EDA Amazon Prime Movies and TV Shows](https://lookerstudio.google.com/reporting/f3a1ebcb-2152-4f44-903b-e839727fd11c)**
+- **[Coffee Shop Sales Performance Dashboard](https://lookerstudio.google.com/reporting/5f7cb2ec-6b59-4072-a6af-ba237c02cf43)**
+
